@@ -1,0 +1,15 @@
+<category id="catRGBLed_bit" index="1" tags="bit">
+  <block type="variables_set">
+    <field name="VAR">rgbled</field>
+    <value name="VALUE">
+      <block type="rgbled_new_bit">
+        <field name="red_">0</field>
+        <field name="green_">1</field>
+        <field name="blue_">2</field>
+      </block>
+    </value>
+  </block>
+  <block type="rgbled_setcolor">
+    <field name="rgbled_">rgbled</field>
+  </block>
+</category>

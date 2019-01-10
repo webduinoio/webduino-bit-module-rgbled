@@ -1,0 +1,22 @@
+{
+  "name": "webduino-bit-module-rgbled",
+  "description": "🔌 Block Module for RGBLed of Webduino:bit",
+  "main": "BitRGBLed-blockly.js",
+  "authors": [
+    "sheng <karokya@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "rgbled"
+  ],
+  "homepage": "https://github.com/webduinoio/webduino-bit-module-rgbled",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
